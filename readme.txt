@@ -4,5 +4,5 @@ test git add
 when commit
 pull from github add commit!!!!!!
 pull without origin 
-add a branch dev
-test origin dev
+origin dev
+bao
